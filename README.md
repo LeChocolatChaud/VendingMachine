@@ -1,2 +1,2 @@
-# VendorMachine
-A vendor machine project for SJTU XueSen camp.
+# VendingMachine
+A vending machine project for SJTU XueSen camp.
