@@ -1,0 +1,16 @@
+{
+  "accounts": {
+    "xzx": {
+      "money": 1000
+    },
+    "mzh": {
+      "money": 1
+    },
+    "xbw": {
+      "money": 333
+    }
+  },
+  "coupon": [
+    460
+  ]
+}
